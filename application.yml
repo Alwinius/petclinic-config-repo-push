@@ -54,4 +54,3 @@ spring:
     url: jdbc:mysql://mysql:3306/${database-name}?useSSL=false
     username: ${database-user}
     password: ${database-password}
-    initialization-mode: ALWAYS
